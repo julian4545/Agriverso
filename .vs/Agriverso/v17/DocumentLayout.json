@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\tiporesiduocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\tiporesiduocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\model\\tiporesiduo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\model\\tiporesiduo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\residuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\residuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\recolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\recolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\recoleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\recoleccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\posicionrecolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\posicionrecolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\partidarecolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\partidarecolectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\granjerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\granjerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\detallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\detallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\services\\granjeroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\services\\granjeroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\services\\posicionrecolectorpartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\services\\posicionrecolectorpartidaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\services\\partidarecolectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\services\\partidarecolectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|c:\\users\\julian alvarado\\source\\repos\\agriverso\\agriverso\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F6AC1B-8C2B-449A-B018-8F81104AC716}|Agriverso\\Agriverso.csproj|solutionrelative:agriverso\\services\\estadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoResiduoController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\TipoResiduoController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\TipoResiduoController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\TipoResiduoController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\TipoResiduoController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:57:04.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoResiduo.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Model\\TipoResiduo.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Model\\TipoResiduo.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Model\\TipoResiduo.cs",
+              "RelativeToolTip": "Agriverso\\Model\\TipoResiduo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:56:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartidaRecolectorController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\PartidaRecolectorController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\PartidaRecolectorController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\PartidaRecolectorController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\PartidaRecolectorController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:37:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PosicionRecolectorController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\PosicionRecolectorController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\PosicionRecolectorController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\PosicionRecolectorController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\PosicionRecolectorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:39:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecoleccionController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\RecoleccionController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\RecoleccionController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\RecoleccionController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\RecoleccionController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:42:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecolectorController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\RecolectorController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\RecolectorController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\RecolectorController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\RecolectorController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:43:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResiduoController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\ResiduoController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\ResiduoController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\ResiduoController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\ResiduoController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:43:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GranjeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\GranjeroController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\GranjeroController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\GranjeroController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\GranjeroController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:36:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\DetalleController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\DetalleController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\DetalleController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\DetalleController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:46:08.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "Agriverso\\Controllers\\EstadoController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:27:06.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GranjeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\GranjeroService.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Services\\GranjeroService.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\GranjeroService.cs",
+              "RelativeToolTip": "Agriverso\\Services\\GranjeroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:37:55.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PosicionRecolectorPartidaService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\PosicionRecolectorPartidaService.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Services\\PosicionRecolectorPartidaService.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\PosicionRecolectorPartidaService.cs",
+              "RelativeToolTip": "Agriverso\\Services\\PosicionRecolectorPartidaService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:41:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartidaRecolectorService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\PartidaRecolectorService.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Services\\PartidaRecolectorService.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\PartidaRecolectorService.cs",
+              "RelativeToolTip": "Agriverso\\Services\\PartidaRecolectorService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:41:05.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\EstadoService.cs",
+              "RelativeDocumentMoniker": "Agriverso\\Services\\EstadoService.cs",
+              "ToolTip": "C:\\Users\\Julian alvarado\\source\\repos\\Agriverso\\Agriverso\\Services\\EstadoService.cs",
+              "RelativeToolTip": "Agriverso\\Services\\EstadoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:32:32.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
